@@ -3,16 +3,14 @@
 	<img width=320 align="right" src="https://media1.tenor.com/images/cbcd5f63e5a6ec51b1d1e00273ee7107/tenor.gif?itemid=12580762">
 </a>
 
-<p align="left">
-	- 🔭 I’m currently working on (https://github.com/sdateamdtu2020/SDA-v2.0) project
-	- 🌱 I’m currently learning (python, ETL automation)
-	- 👯 I’m looking to collaborate on (ETL field)
-	- 🤔 I’m looking for help with (grirlls)
-	- 💬 Ask me about (About me)
-	- 📫 How to reach me: (kyhuudong@gmail.com)
-	- 😄 Pronouns: D O N G (Do not pronoun without N 😢)
-	- ⚡ Fun fact: (Iam !g..)
-</p>
+- 🔭 I’m currently working on (https://github.com/sdateamdtu2020/SDA-v2.0) project
+- 🌱 I’m currently learning (python, ETL automation)
+- 👯 I’m looking to collaborate on (ETL field)
+- 🤔 I’m looking for help with (grirlls)
+- 💬 Ask me about (About me)
+- 📫 How to reach me: (kyhuudong@gmail.com)
+- 😄 Pronouns: D O N G (Do not pronoun without N 😢)
+- ⚡ Fun fact: (Iam !g..)
 
 <p align="left">
   <a href="https://linkedin.com/in/huu-dong/" target="_blank"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
