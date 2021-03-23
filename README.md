@@ -10,6 +10,8 @@
 - 📫 How to reach me: (kyhuudong@gmail.com)
 - 😄 Pronouns: D O N G (Do not pronoun without N 😢)
 - ⚡ Fun fact: (Iam !g..)
+
+
 <p align="left">
   <a href="https://linkedin.com/in/huu-dong/" target="_blank"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
   <a href="https://discord.gg/dE2vbfSC" target="_blank"><img alt="Discord - Miku#0039" title="Discord - Miku#0039" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
