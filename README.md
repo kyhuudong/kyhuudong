@@ -10,7 +10,7 @@
 - 💬 Ask me about (About me)
 - 📫 How to reach me: (kyhuudong@gmail.com)
 - 😄 Pronouns: D O N G (Do not pronoun without N 😢)
-- ⚡ Fun fact: (Iam !g..)
+- ⚡ Fun fact: (I am !g _ _)
 
 <p align="left">
   <a href="https://linkedin.com/in/huu-dong/" target="_blank"><img alt="LinkedIn" title="LinkedIn" height="42" width="42" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
