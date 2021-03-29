@@ -1,14 +1,14 @@
 ### Hiiií <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 <a href="#">
-	<img width=320 align="right" src="https://media1.tenor.com/images/cbcd5f63e5a6ec51b1d1e00273ee7107/tenor.gif?itemid=12580762">
+	<img width=320 align="right" src="https://i.imgur.com/3PkLWL6.gif">
 </a>
 
 - 💪 I’m currently working on [EDSDA](https://github.com/sdateamdtu2020/SDA-v2.0) project
 - 🔥 I’m currently learning (python, ETL automation <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">)
 - 👯 I’m looking to collaborate on (ETL field)
-- 🤔 I’m looking for help with (grirlls)
+- 🤔 I’m looking for help with (grirlls <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">)
 - 💬 Ask me about (About me)
-- 📫 How to reach me: [Email](kyhuudong@gmail.com)
+- 📫 How to reach me: (kyhuudong@gmail.com)
 - 😄 Pronouns: D O N G (Do not pronoun without N 😢)
 - ⚡ Fun fact: (I am !g _ _)
 
