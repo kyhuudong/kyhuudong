@@ -4,11 +4,11 @@
 </a>
 
 - 💪 I’m currently working on [EDSDA](https://github.com/sdateamdtu2020/SDA-v2.0) project
-- 🔥 I’m currently learning (python, ETL automation)
+- 🔥 I’m currently learning (python, ETL automation <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">)
 - 👯 I’m looking to collaborate on (ETL field)
 - 🤔 I’m looking for help with (grirlls)
 - 💬 Ask me about (About me)
-- 📫 How to reach me: (kyhuudong@gmail.com)
+- 📫 How to reach me: [Email](kyhuudong@gmail.com)
 - 😄 Pronouns: D O N G (Do not pronoun without N 😢)
 - ⚡ Fun fact: (I am !g _ _)
 
