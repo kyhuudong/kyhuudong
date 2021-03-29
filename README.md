@@ -3,7 +3,7 @@
 	<img width=320 align="right" src="https://media1.tenor.com/images/cbcd5f63e5a6ec51b1d1e00273ee7107/tenor.gif?itemid=12580762">
 </a>
 
-- 💪 I’m currently working on (https://github.com/sdateamdtu2020/SDA-v2.0) project
+- 💪 I’m currently working on [EDSDA](https://github.com/sdateamdtu2020/SDA-v2.0) project
 - 🔥 I’m currently learning (python, ETL automation)
 - 👯 I’m looking to collaborate on (ETL field)
 - 🤔 I’m looking for help with (grirlls)
