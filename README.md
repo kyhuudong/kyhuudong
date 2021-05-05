@@ -15,10 +15,7 @@
 <p align="left">
   <a href="https://discord.gg/dE2vbfSC" target="_blank"><img alt="Discord - Miku#0039" title="Discord" height="42" width="42" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
   <a href="https://facebook.com/huu.dong.1" target="_blank"><img alt="Facebook" title="Facebook" height="42" width="42" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg"></a>
-  <a href="https://www.reddit.com/user/ykgnod" target="_blank"><img alt="Reddit" title="Reddit" height="42" width="42" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg"></a>
-<a href="https://tinspham.info/" target="_blank">
-	<img alt="Website" src="https://img.shields.io/badge/.-www.https://kyhuudong.netlify.app/?style=flat&logo=google-chrome">
-</a>	
+  <a href="https://www.reddit.com/user/ykgnod" target="_blank"><img alt="Reddit" title="Reddit" height="42" width="42" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg"></a>	
 </p>
 <p>
 	<a href="https://www.linkedin.com/in/huu-dong/" target="_blank">
@@ -26,5 +23,8 @@
 	</a>
 	<a href="mailto:kyhuudong@gmail.com">
 		<img alt="Email" src="https://img.shields.io/badge/.-kyhuudong@gmail.com-orange?style=flat&logo=gmail">
+	</a>
+	<a href="https://kyhuudong.netlify.app/" target="_blank">
+		<img alt="Website" src="https://img.shields.io/badge/.-www.kyhuudong.info-ff69b4?style=flat&logo=google-chrome">
 	</a>
 </p>
