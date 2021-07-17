@@ -1,8 +1,23 @@
+<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+
 <a href="#">
 	<img width=320 align="right" src="https://i.imgur.com/3PkLWL6.gif">
 </a>
-<!-- ### <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
+<a href="https://www.linkedin.com/in/huu-dong/" target="_blank">
+		<img alt="LinkedIn" src="https://img.shields.io/badge/.-@huudong-lightgrey?style=flat&logo=linkedin">
+	</a>
+	<a href="mailto:kyhuudong@gmail.com">
+		<img alt="Email" src="https://img.shields.io/badge/.-kyhuudong@gmail.com-orange?style=flat&logo=gmail">
+	</a>
+	<a href="https://kyhuudong.netlify.app/" target="_blank">
+		<img alt="Website" src="https://img.shields.io/badge/.-www.kyhuudong.info-ff69b4?style=flat&logo=google-chrome">
+	</a>
+
+<!-- ### <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+<a href="#">
+	<img width=320 align="right" src="https://i.imgur.com/3PkLWL6.gif">
+</a>
 
 - 💪 I’m currently working on [EDSDA](https://github.com/sdateamdtu2020/SDA-v2.0) project
 - 🔥 I’m currently learning (python, ETL automation <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">)
