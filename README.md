@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 <a href="#">
-	<img width=320 align="right" src="https://i.imgur.com/3PkLWL6.gif">
+	<img width=320 align="center" src="https://i.imgur.com/3PkLWL6.gif">
 </a>
 
 <a href="https://www.linkedin.com/in/huu-dong/" target="_blank">
