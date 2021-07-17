@@ -1,7 +1,8 @@
-### <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 <a href="#">
 	<img width=320 align="right" src="https://i.imgur.com/3PkLWL6.gif">
 </a>
+<!-- ### <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+
 
 - 💪 I’m currently working on [EDSDA](https://github.com/sdateamdtu2020/SDA-v2.0) project
 - 🔥 I’m currently learning (python, ETL automation <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">)
@@ -27,4 +28,4 @@
 	<a href="https://kyhuudong.netlify.app/" target="_blank">
 		<img alt="Website" src="https://img.shields.io/badge/.-www.kyhuudong.info-ff69b4?style=flat&logo=google-chrome">
 	</a>
-</p>
+</p> -->
