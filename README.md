@@ -10,7 +10,7 @@
 	<a href="mailto:kyhuudong@gmail.com">
 		<img alt="Email" src="https://img.shields.io/badge/.-kyhuudong@gmail.com-orange?style=flat&logo=gmail">
 	</a>
-	<a href="https://kyhuudong.netlify.app/" target="_blank">
+	<a href="https://kyhuudongtags.netlify.app/" target="_blank">
 		<img alt="Website" src="https://img.shields.io/badge/.-www.kyhuudong.info-ff69b4?style=flat&logo=google-chrome">
 	</a>
 
